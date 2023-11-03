@@ -7,7 +7,7 @@ This is a simple app that generates random advice from the Advice Slip JSON API.
 ## Project Screenshot(s)
 
 ![Screenshot](./screenshots/screen_1.png)
-![Screenshot](./screenshots/screen_2.png)
+![Screenshot](./screenshots/scree_2.png)
 
 ## Author(s):
 
